@@ -1,7 +1,5 @@
 import json
 
-# hatchling: code generated with LLM assistance
-
 class SATResultsSystem:
     def __init__(this):
         this.dict = {}  # key: Name, value: dict of student details
